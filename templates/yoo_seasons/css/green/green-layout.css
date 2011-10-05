@@ -1,0 +1,75 @@
+body#page {
+	background: #6EB900;
+}
+
+div#page-body {
+	background: #78C800 url(../images/green/page_body_bg.png) 50% 0 repeat-x;
+}
+
+div#header {
+	background: #FFF5EB url(../images/green/header_t.png) 0 0 repeat-x;
+}
+
+div#header .header-b {	
+	background: url(../images/green/header_b.png) 0 100% repeat-x;
+}
+
+div#header .header-l {
+	background: url(../images/green/header_l.png) 0 0 repeat-y;
+}
+
+div#header .header-r {
+	background: url(../images/green/header_r.png) 100% 0 repeat-y;
+}
+
+div#header .header-tl {
+	background: url(../images/green/header_tl.png) 0 0 no-repeat;
+}
+
+div#header .header-tr {
+	background: url(../images/green/header_tr.png) 100% 0 no-repeat;
+}
+
+div#header .header-bl {
+	background: url(../images/green/header_bl.png) 0 100% no-repeat;
+}
+
+div#header .header-br {
+	background: url(../images/green/header_br.png) 100% 100% no-repeat;
+}
+
+div#middle {
+	background: #FFFAF5 url(../images/green/middle_t.png) 0 0 repeat-x;
+}
+
+div#middle .middle-b {
+	background: url(../images/green/middle_b.png) 0 100% repeat-x;
+}
+
+div#middle .middle-l {
+	background: url(../images/green/middle_l.png) 0 0 repeat-y;
+}
+
+div#middle .middle-r {
+	background: url(../images/green/middle_r.png) 100% 0 repeat-y;
+}
+
+div#middle .middle-tl {
+	background: url(../images/green/middle_tl.png) 0 0 no-repeat;
+}
+
+div#middle .middle-tr {
+	background: url(../images/green/middle_tr.png) 100% 0 no-repeat;
+}
+
+div#middle .middle-bl {
+	background: url(../images/green/middle_bl.png) 0 100% no-repeat;
+}
+
+div#middle .middle-br {
+	background: url(../images/green/middle_br.png) 100% 100% no-repeat;
+}
+
+div#page-footer {
+	background: #6EB900 url(../images/green/page_footer_bg.png) 50% 0 repeat-x;
+}

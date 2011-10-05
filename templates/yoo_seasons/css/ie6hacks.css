@@ -1,0 +1,153 @@
+/*
+ * YOOtheme CSS file
+ *
+ * @author yootheme.com
+ * @copyright Copyright (C) 2007 YOOtheme Ltd. & Co. KG. All rights reserved.
+ */ 
+
+/* layout */
+div#toppanel-wrapper {
+	margin: 0px -20px 0px -20px;
+}
+
+div#toppanel {
+	position: static;
+	padding: 0px 10px 0px 10px;
+}
+
+div#styleswitcher a {
+	cursor: pointer;
+}
+
+div#header .header-b {	
+	zoom: 1;
+}
+
+div#headermodule {
+	width: 100%;
+}
+
+div#middle .background {
+	overflow: visible;
+	height: 140px;
+}
+
+div#middle .layoutleft div#main {
+	padding: 0px 0px 0px 0px;
+}
+
+div#middle .layoutright div#main {
+	padding: 0px 0px 0px 0px;
+}
+
+div#middle .layoutleft div#maintop .maintop-l, div#middle .layoutleft div#mainbottom .mainbottom-l {
+	background: none;
+}
+
+div#middle .layoutright div#maintop .maintop-l, div#middle .layoutright div#mainbottom .mainbottom-l {
+	background: none;
+}
+
+div#middle .layoutleft div#maintop .maintop-bl, div#middle .layoutleft div#mainbottom .mainbottom-tl {
+	background: none;
+}
+
+div#middle .layoutright div#maintop .maintop-bl, div#middle .layoutright div#mainbottom .mainbottom-tl {
+	background: none;
+}
+
+div#footer {
+	height: 100px;
+}
+
+/* menu */
+/* sub othermenu */
+#left div.moduletable_menu li {
+	width: 198px;
+	overflow: hidden;
+}
+
+#left div.moduletable_menu li a:hover {
+	text-decoration: none;
+}
+
+#left div.moduletable_menu li.toggler {
+	overflow: visible;
+}
+
+#left div.moduletable_menu li.active {
+	overflow: visible;
+}
+
+/* module */
+#right div.module-slider h3 {
+	overflow: hidden;
+}
+
+/* joomla */
+div#yoo-login {
+	width: auto;
+}
+
+div#yoo-login .yoo-lostpassword, div#yoo-login .yoo-registration {
+	line-height: 10px;
+}
+
+div#yoo-search {
+	height: 18px;
+}
+
+/* extensions */
+/* YOOslider: drawer vertical */
+#right div.drawer-v-a ul.yoo-sliderlist .item-bl {
+	background: url(../images/drawer_item_bl_ie6.png) 0 100% no-repeat;
+}
+
+#right div.drawer-v-a ul.yoo-sliderlist .active .item-bl {
+	background: url(../images/drawer_item_bl_hover_ie6.png) 0 100% no-repeat;
+}
+
+#right div.drawer-v-a ul.yoo-sliderlist .item-br {
+	background: url(../images/drawer_item_br_ie6.png) 100% 100% no-repeat;
+}
+
+#right div.drawer-v-a ul.yoo-sliderlist .active .item-br {
+	background: url(../images/drawer_item_br_hover_ie6.png) 100% 100% no-repeat;
+}
+
+#right div.drawer-v-a ul.yoo-sliderlist .item-b {
+	background: url(../images/drawer_item_b_ie6.png) 0 100% repeat-x;
+}
+
+#right div.drawer-v-a ul.yoo-sliderlist .active .item-b {
+	background: url(../images/drawer_item_b_hover_ie6.png) 0 100% repeat-x;
+}
+
+/* YOOslider: slider horizontal */
+div.slider-h-a ul.yoo-sliderlist li.first {
+	background: url(../images/slider_item_l_ie6.png) 0 0 no-repeat;
+}
+
+div.slider-h-a ul.yoo-sliderlist li .item-r {
+	width: 0px;
+}
+
+div.slider-h-a ul.yoo-sliderlist li:hover.first {
+	background: url(../images/slider_item_l_hover_ie6.png) 0 0 no-repeat;
+}
+
+div.slider-h-a ul.yoo-sliderlist li {
+	background: url(../images/slider_item_m_ie6.png) 0 0 repeat-x;
+}
+
+div.slider-h-a ul.yoo-sliderlist li:hover {
+	background: url(../images/slider_item_m_hover_ie6.png) 0 0 repeat-x;
+}
+
+div.slider-h-a ul.yoo-sliderlist li.last {
+	background: url(../images/slider_item_r_ie6.png) 100% 0 no-repeat;
+}
+
+div.slider-h-a ul.yoo-sliderlist li:hover.last {
+	background: url(../images/slider_item_r_hover_ie6.png) 100% 0 no-repeat;
+}

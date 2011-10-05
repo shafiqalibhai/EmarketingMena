@@ -1,0 +1,75 @@
+body#page {
+	background: #EA9800;
+}
+
+div#page-body {
+	background: #F0AA00 url(../images/orange/page_body_bg.png) 50% 0 repeat-x;
+}
+
+div#header {
+	background: #FFF5EB url(../images/orange/header_t.png) 0 0 repeat-x;
+}
+
+div#header .header-b {	
+	background: url(../images/orange/header_b.png) 0 100% repeat-x;
+}
+
+div#header .header-l {
+	background: url(../images/orange/header_l.png) 0 0 repeat-y;
+}
+
+div#header .header-r {
+	background: url(../images/orange/header_r.png) 100% 0 repeat-y;
+}
+
+div#header .header-tl {
+	background: url(../images/orange/header_tl.png) 0 0 no-repeat;
+}
+
+div#header .header-tr {
+	background: url(../images/orange/header_tr.png) 100% 0 no-repeat;
+}
+
+div#header .header-bl {
+	background: url(../images/orange/header_bl.png) 0 100% no-repeat;
+}
+
+div#header .header-br {
+	background: url(../images/orange/header_br.png) 100% 100% no-repeat;
+}
+
+div#middle {
+	background: #FFFAF5 url(../images/orange/middle_t.png) 0 0 repeat-x;
+}
+
+div#middle .middle-b {
+	background: url(../images/orange/middle_b.png) 0 100% repeat-x;
+}
+
+div#middle .middle-l {
+	background: url(../images/orange/middle_l.png) 0 0 repeat-y;
+}
+
+div#middle .middle-r {
+	background: url(../images/orange/middle_r.png) 100% 0 repeat-y;
+}
+
+div#middle .middle-tl {
+	background: url(../images/orange/middle_tl.png) 0 0 no-repeat;
+}
+
+div#middle .middle-tr {
+	background: url(../images/orange/middle_tr.png) 100% 0 no-repeat;
+}
+
+div#middle .middle-bl {
+	background: url(../images/orange/middle_bl.png) 0 100% no-repeat;
+}
+
+div#middle .middle-br {
+	background: url(../images/orange/middle_br.png) 100% 100% no-repeat;
+}
+
+div#page-footer {
+	background: #EA9800 url(../images/orange/page_footer_bg.png) 50% 0 repeat-x;
+}

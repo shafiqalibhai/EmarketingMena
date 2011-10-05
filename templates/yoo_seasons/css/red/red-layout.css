@@ -1,0 +1,75 @@
+body#page {
+	background: #6C1000;
+}
+
+div#page-body {
+	background: #781400 url(../images/red/page_body_bg.png) 50% 0 repeat-x;
+}
+
+div#header {
+	background: #FFF5EB url(../images/red/header_t.png) 0 0 repeat-x;
+}
+
+div#header .header-b {	
+	background: url(../images/red/header_b.png) 0 100% repeat-x;
+}
+
+div#header .header-l {
+	background: url(../images/red/header_l.png) 0 0 repeat-y;
+}
+
+div#header .header-r {
+	background: url(../images/red/header_r.png) 100% 0 repeat-y;
+}
+
+div#header .header-tl {
+	background: url(../images/red/header_tl.png) 0 0 no-repeat;
+}
+
+div#header .header-tr {
+	background: url(../images/red/header_tr.png) 100% 0 no-repeat;
+}
+
+div#header .header-bl {
+	background: url(../images/red/header_bl.png) 0 100% no-repeat;
+}
+
+div#header .header-br {
+	background: url(../images/red/header_br.png) 100% 100% no-repeat;
+}
+
+div#middle {
+	background: #FFFAF5 url(../images/red/middle_t.png) 0 0 repeat-x;
+}
+
+div#middle .middle-b {
+	background: url(../images/red/middle_b.png) 0 100% repeat-x;
+}
+
+div#middle .middle-l {
+	background: url(../images/red/middle_l.png) 0 0 repeat-y;
+}
+
+div#middle .middle-r {
+	background: url(../images/red/middle_r.png) 100% 0 repeat-y;
+}
+
+div#middle .middle-tl {
+	background: url(../images/red/middle_tl.png) 0 0 no-repeat;
+}
+
+div#middle .middle-tr {
+	background: url(../images/red/middle_tr.png) 100% 0 no-repeat;
+}
+
+div#middle .middle-bl {
+	background: url(../images/red/middle_bl.png) 0 100% no-repeat;
+}
+
+div#middle .middle-br {
+	background: url(../images/red/middle_br.png) 100% 100% no-repeat;
+}
+
+div#page-footer {
+	background: #6C1000 url(../images/red/page_footer_bg.png) 50% 0 repeat-x;
+}

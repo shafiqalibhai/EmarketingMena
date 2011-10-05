@@ -1,0 +1,143 @@
+#top div.module {
+	background: #6CB400 url(../images/green/top_module_br.png) 100% 100% no-repeat;
+}
+
+#top div.module div {
+	background: url(../images/green/top_module_tr.png) 100% 0 no-repeat;
+}
+
+#top div.module div div {
+	background: url(../images/green/top_module_bl.png) 0 100% no-repeat;
+}
+
+#top div.module div div div {
+	background: url(../images/green/top_module_tl.png) 0 0 no-repeat;
+}
+
+#top div.module a:link, #top div.module a:visited {
+	color: #ffffff;
+}
+
+#top div.module a:hover  {
+	color: #ffffff;
+}
+
+#top div.module-intensive {
+	background: #5EB600 url(../images/green/top_module_br_intensive.png) 100% 100% no-repeat;
+}
+
+#top div.module-intensive div {
+	background: url(../images/green/top_module_tr_intensive.png) 100% 0 no-repeat;
+}
+
+#top div.module-intensive div div {
+	background: url(../images/green/top_module_bl_intensive.png) 0 100% no-repeat;
+}
+
+#top div.module-intensive div div div {
+	background: url(../images/green/top_module_tl_intensive.png) 0 0 no-repeat;
+}
+
+#top div.module-intensive a:link, #top div.module-intensive a:visited {
+	color: #ffffff;
+}
+
+#top div.module-intensive a:hover  {
+	color: #ffffff;
+}
+
+#top div.module-bright {
+	background: #91D900 url(../images/green/top_module_br_bright.png) 100% 100% no-repeat;
+}
+
+#top div.module-bright div {
+	background: url(../images/green/top_module_tr_bright.png) 100% 0 no-repeat;
+}
+
+#top div.module-bright div div {
+	background: url(../images/green/top_module_bl_bright.png) 0 100% no-repeat;
+}
+
+#top div.module-bright div div div {
+	background: url(../images/green/top_module_tl_bright.png) 0 0 no-repeat;
+}
+
+#top div.module-bright a:link, #top div.module-bright a:visited {
+	color: #ffffff;
+}
+
+#top div.module-bright a:hover  {
+	color: #ffffff;
+}
+
+#bottom div.module {
+	background: #6CB400 url(../images/green/top_module_br.png) 100% 100% no-repeat;
+}
+
+#bottom div.module div {
+	background: url(../images/green/top_module_tr.png) 100% 0 no-repeat;
+}
+
+#bottom div.module div div {
+	background: url(../images/green/top_module_bl.png) 0 100% no-repeat;
+}
+
+#bottom div.module div div div {
+	background: url(../images/green/top_module_tl.png) 0 0 no-repeat;
+}
+
+#bottom div.module a:link, #bottom div.module a:visited {
+	color: #ffffff;
+}
+
+#bottom div.module a:hover  {
+	color: #ffffff;
+}
+
+#bottom div.module-intensive {
+	background: #5EB600 url(../images/green/top_module_br_intensive.png) 100% 100% no-repeat;
+}
+
+#bottom div.module-intensive div {
+	background: url(../images/green/top_module_tr_intensive.png) 100% 0 no-repeat;
+}
+
+#bottom div.module-intensive div div {
+	background: url(../images/green/top_module_bl_intensive.png) 0 100% no-repeat;
+}
+
+#bottom div.module-intensive div div div {
+	background: url(../images/green/top_module_tl_intensive.png) 0 0 no-repeat;
+}
+
+#bottom div.module-intensive a:link, #bottom div.module-intensive a:visited {
+	color: #ffffff;
+}
+
+#bottom div.module-intensive a:hover  {
+	color: #ffffff;
+}
+
+#bottom div.module-bright {
+	background: #91D900 url(../images/green/top_module_br_bright.png) 100% 100% no-repeat;
+}
+
+#bottom div.module-bright div {
+	background: url(../images/green/top_module_tr_bright.png) 100% 0 no-repeat;
+}
+
+#bottom div.module-bright div div {
+	background: url(../images/green/top_module_bl_bright.png) 0 100% no-repeat;
+}
+
+#bottom div.module-bright div div div {
+	background: url(../images/green/top_module_tl_bright.png) 0 0 no-repeat;
+}
+
+#bottom div.module-bright a:link, #bottom div.module-bright a:visited {
+	color: #ffffff;
+}
+
+#bottom div.module-bright a:hover  {
+	color: #ffffff;
+}

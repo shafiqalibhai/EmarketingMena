@@ -1,0 +1,493 @@
+/*
+ * YOOtheme CSS file
+ *
+ * @author yootheme.com
+ * @copyright Copyright (C) 2007 YOOtheme Ltd. & Co. KG. All rights reserved.
+ */ 
+
+div.moduletable h3,
+div.moduletable-blank h3,
+div.moduletable-black h3,
+div.moduletable_menu h3,
+div.module h3,
+div.module-slider h3,
+div.module-blank h3,
+div.module-intensive h3,
+div.module-bright h3 {
+	font-size: 100%;
+}
+
+/* toppanel modules */
+#toppanel div.moduletable {
+	margin: 0px 0px 10px 0px;
+}
+
+#toppanel div.moduletable h3 {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 10px 0px;
+	text-align: left;
+	font-size: 150%;
+	font-weight: bold;
+}
+
+/* top & bottom modules */
+#top div.module {
+	background: #CECECE url(../images/top_module_br.png) 100% 100% no-repeat;
+	color: #FFFFFF;
+}
+
+#top .topboxseperator div.module {
+	margin: 0px 10px 0px 0px;
+}
+
+#top div.module div {
+	background: url(../images/top_module_tr.png) 100% 0 no-repeat;
+}
+
+#top div.module div div {
+	background: url(../images/top_module_bl.png) 0 100% no-repeat;
+}
+
+#top div.module div div div {
+	padding: 10px 15px 10px 15px;
+	background: url(../images/top_module_tl.png) 0 0 no-repeat;
+	overflow: hidden;
+}
+
+#top div.module div div div div {
+	padding: 0px 0px 0px 0px;
+	background: none;
+}
+
+#top div.module h3 {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 5px 0px;
+	font-size: 125%;
+	font-weight: bold;
+}
+
+#top div.module a:link, #top div.module a:visited {
+	color: #ffffff;
+	text-decoration: underline;
+}
+
+#top div.module a:hover  {
+	color: #ffffff;
+}
+
+/* intensive */
+#top div.module-intensive {
+	background: #DBDBDB url(../images/top_module_br_intensive.png) 100% 100% no-repeat;
+	color: #FFFFFF;
+}
+
+#top .topboxseperator div.module-intensive {
+	margin: 0px 10px 0px 0px;
+}
+
+#top div.module-intensive div {
+	background: url(../images/top_module_tr_intensive.png) 100% 0 no-repeat;
+}
+
+#top div.module-intensive div div {
+	background: url(../images/top_module_bl_intensive.png) 0 100% no-repeat;
+}
+
+#top div.module-intensive div div div {
+	padding: 10px 15px 10px 15px;
+	background: url(../images/top_module_tl_intensive.png) 0 0 no-repeat;
+	overflow: hidden;
+}
+
+#top div.module-intensive div div div div {
+	padding: 0px 0px 0px 0px;
+	background: none;
+}
+
+#top div.module-intensive h3 {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 5px 0px;
+	font-size: 125%;
+	font-weight: bold;
+}
+
+#top div.module-intensive a:link, #top div.module-intensive a:visited {
+	color: #ffffff;
+	text-decoration: underline;
+}
+
+#top div.module-intensive a:hover  {
+	color: #ffffff;
+}
+
+/* bright */
+#top div.module-bright {
+	background: #EEEEEE url(../images/top_module_br_bright.png) 100% 100% no-repeat;
+	color: #FFFFFF;
+}
+
+#top .topboxseperator div.module-bright {
+	margin: 0px 10px 0px 0px;
+}
+
+#top div.module-bright div {
+	background: url(../images/top_module_tr_bright.png) 100% 0 no-repeat;
+}
+
+#top div.module-bright div div {
+	background: url(../images/top_module_bl_bright.png) 0 100% no-repeat;
+}
+
+#top div.module-bright div div div {
+	padding: 10px 15px 10px 15px;
+	background: url(../images/top_module_tl_bright.png) 0 0 no-repeat;
+	overflow: hidden;
+}
+
+#top div.module-bright div div div div {
+	padding: 0px 0px 0px 0px;
+	background: none;
+}
+
+#top div.module-bright h3 {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 5px 0px;
+	font-size: 125%;
+	font-weight: bold;
+}
+
+#top div.module-bright a:link, #top div.module-bright a:visited {
+	color: #ffffff;
+	text-decoration: underline;
+}
+
+#top div.module-bright a:hover  {
+	color: #ffffff;
+}
+
+/* blank (top modules) */
+#top div.module-blank {
+	padding: 0px 0px 0px 0px;
+}
+
+/* left modules */
+#left div.moduletable {
+	margin: 0px 0px 20px 0px;
+	padding: 10px 10px 10px 15px;
+	width: 173px;
+	overflow: hidden;
+
+}
+
+#left div.moduletable h3 {
+	margin: -10px -10px 10px -15px;
+	padding: 0px 0px 0px 15px;
+	height: 25px;
+	background: url(../images/left_module_header_l.png) 0 0 repeat-x;
+	line-height: 25px;
+	text-align: left;
+	font-weight: bold;
+}
+
+div#middle .layoutright div#left div.moduletable h3 {
+	background: url(../images/left_module_header_r.png) 0 0 repeat-x;
+}
+
+/* black */
+#left div.moduletable-black {
+	margin: 0px 0px 20px 0px;
+	padding: 10px 10px 10px 15px;
+	width: 173px;
+	background: #1E1E1E;
+	overflow: hidden;
+	color: #ffffff;
+}
+
+#left div.moduletable-black h3 {
+	margin: -10px -10px 10px -15px;
+	padding: 0px 0px 0px 15px;
+	height: 25px;
+	background: url(../images/left_module_header_black.png) 0 0 repeat-x;
+	line-height: 25px;
+	text-align: left;
+	font-weight: bold;
+}
+
+/* blank */
+#left div.moduletable-blank {
+	margin: 0px 0px 20px 0px;
+	padding: 0px 0px 0px 0px;
+	width: 198px;
+	overflow: hidden;
+}
+
+/* menus */
+#left div.moduletable_menu {
+	margin: 0px 0px 20px 0px;
+	padding: 0px 0px 0px 0px;
+	width: 198px;
+	overflow: hidden;
+}
+
+#left div.moduletable_menu h3 {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 15px;
+	height: 25px;
+	background: url(../images/left_module_header_l.png) 0 0 repeat-x;
+	line-height: 25px;
+	text-align: left;
+	font-weight: bold;
+}
+
+div#middle .layoutright div#left div.moduletable_menu h3 {
+	background: url(../images/left_module_header_r.png) 0 0 repeat-x;
+}
+
+/* maintopbox & mainbottombox modules */
+#maintop div.moduletable, #mainbottom div.moduletable {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 10px 10px 10px;
+	overflow: hidden;
+	text-align:justify;
+}
+
+#maintop div.moduletable h3, #mainbottom div.moduletable h3 {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 5px 0px;
+	height: 20px;
+	line-height: 25px;
+	text-align: left;
+	font-weight: bold;
+}
+
+/* blank */
+#maintop div.moduletable-blank, #mainbottom div.moduletable-blank {
+	padding: 0px 0px 0px 0px;
+}
+
+/* right modules */
+#right div.module {
+	margin: 0px 0px 20px 0px;
+	background: url(../images/right_module_m.png) 0 0 repeat-y;
+}
+
+#right div.module div {
+	background: url(../images/right_module_t.png) 0 0 no-repeat;
+}
+
+#right div.module div div {
+	background: url(../images/right_module_b.png) 0 100% no-repeat;
+}
+
+#right div.module div div div {
+	width: 160px;
+	padding: 10px 10px 10px 10px;
+	overflow: hidden;
+}
+
+#right div.module div div div div {
+	padding: 0px 0px 0px 0px;
+	background: none;
+}
+
+#right div.module h3 {
+	height: 20px;
+	margin: -10px -10px 5px -10px;
+	padding: 0px 0px 5px 10px;
+	background: url(../images/right_module_header.png) 0 0 no-repeat;
+	line-height: 25px;
+	text-align: left;
+	font-weight: bold;
+}
+
+/* slider */
+#right div.module-slider {
+	margin: 0px 0px 20px 0px;
+}
+
+#right div.module-slider h3 {
+	height: 20px;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 5px 10px;
+	background: url(../images/right_module_header.png) 0 0 no-repeat;
+	line-height: 25px;
+	text-align: left;
+	font-weight: bold;
+}
+
+/* blank */
+#right div.module-blank {
+	padding: 0px 0px 0px 0px;
+}
+
+/* contenttop modules */
+#contenttop div.moduletable, #contentbottom div.moduletable {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 10px 0px;
+	overflow: hidden;
+	text-align:justify;
+}
+
+#contenttop .contenttopboxseperator div.moduletable, #contentbottom .contentbottomboxseperator div.moduletable {
+	padding: 0px 10px 10px 0px;
+}
+
+#contenttop div.moduletable h3, #contentbottom div.moduletable h3 {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 5px 0px;
+	height: 20px;
+	line-height: 25px;
+	text-align: left;
+	font-weight: bold;
+}
+
+/* blank */
+.maintopbox div.moduletable-blank, .mainbottombox div.moduletable-blank {
+	padding: 0px 0px 0px 0px;
+}
+
+/* top & bottom modules */
+#bottom div.module {
+	background: #CECECE url(../images/top_module_br.png) 100% 100% no-repeat;
+	color: #FFFFFF;
+}
+
+#bottom .bottomboxseperator div.module {
+	margin: 0px 10px 0px 0px;
+}
+
+#bottom div.module div {
+	background: url(../images/top_module_tr.png) 100% 0 no-repeat;
+}
+
+#bottom div.module div div {
+	background: url(../images/top_module_bl.png) 0 100% no-repeat;
+}
+
+#bottom div.module div div div {
+	padding: 10px 15px 10px 15px;
+	background: url(../images/top_module_tl.png) 0 0 no-repeat;
+	overflow: hidden;
+	text-align: center;
+}
+
+#bottom div.module div div div div {
+	padding: 0px 0px 0px 0px;
+	background: none;
+}
+
+#bottom div.module h3 {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 5px 0px;
+	text-align: center;
+	font-size: 125%;
+	font-weight: bold;
+}
+
+#bottom div.module a:link, #bottom div.module a:visited {
+	color: #ffffff;
+	text-decoration: underline;
+}
+
+#bottom div.module a:hover  {
+	color: #ffffff;
+}
+
+/* intensive */
+#bottom div.module-intensive {
+	background: #DBDBDB url(../images/top_module_br_intensive.png) 100% 100% no-repeat;
+	color: #FFFFFF;
+}
+
+#bottom .bottomboxseperator div.module-intensive {
+	margin: 0px 10px 0px 0px;
+}
+
+#bottom div.module-intensive div {
+	background: url(../images/top_module_tr_intensive.png) 100% 0 no-repeat;
+}
+
+#bottom div.module-intensive div div {
+	background: url(../images/top_module_bl_intensive.png) 0 100% no-repeat;
+}
+
+#bottom div.module-intensive div div div {
+	padding: 10px 15px 10px 15px;
+	background: url(../images/top_module_tl_intensive.png) 0 0 no-repeat;
+	overflow: hidden;
+	text-align: center;
+}
+
+#bottom div.module-intensive div div div div {
+	padding: 0px 0px 0px 0px;
+	background: none;
+}
+
+#bottom div.module-intensive h3 {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 5px 0px;
+	text-align: center;
+	font-size: 125%;
+	font-weight: bold;
+}
+
+#bottom div.module-intensive a:link, #bottom div.module-intensive a:visited {
+	color: #ffffff;
+	text-decoration: underline;
+}
+
+#bottom div.module-intensive a:hover  {
+	color: #ffffff;
+}
+
+/* bright */
+#bottom div.module-bright {
+	background: #EEEEEE url(../images/top_module_br_bright.png) 100% 100% no-repeat;
+	color: #FFFFFF;
+}
+
+#bottom .bottomboxseperator div.module-bright {
+	margin: 0px 10px 0px 0px;
+}
+
+#bottom div.module-bright div {
+	background: url(../images/top_module_tr_bright.png) 100% 0 no-repeat;
+}
+
+#bottom div.module-bright div div {
+	background: url(../images/top_module_bl_bright.png) 0 100% no-repeat;
+}
+
+#bottom div.module-bright div div div {
+	padding: 10px 15px 10px 15px;
+	background: url(../images/top_module_tl_bright.png) 0 0 no-repeat;
+	overflow: hidden;
+	text-align: center;
+}
+
+#bottom div.module-bright div div div div {
+	padding: 0px 0px 0px 0px;
+	background: none;
+}
+
+#bottom div.module-bright h3 {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 5px 0px;
+	text-align: center;
+	font-size: 125%;
+	font-weight: bold;
+}
+
+#bottom div.module-bright a:link, #bottom div.module-bright a:visited {
+	color: #ffffff;
+	text-decoration: underline;
+}
+
+#bottom div.module-bright a:hover  {
+	color: #ffffff;
+}
+
+/* blank (top modules) */
+#bottom div.module-blank {
+	padding: 0px 0px 0px 0px;
+}
